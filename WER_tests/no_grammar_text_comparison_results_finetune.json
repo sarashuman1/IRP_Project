@@ -1,0 +1,1218 @@
+[
+    {
+        "file_name": "refugees_and_asylum_seekers_15.txt",
+        "ground_truth": "the patient\u2019s housing and other social determinants of health, especially before discharge following a birth. For example, malnutrition may be a concern due to competing demands for limited funds. Where health or social welfare concerns are identified, you should consider referring to an appropriate support service. Female genital mutilation Additional",
+        "generated": {
+            "transcription": "The patient's housing and other social determinants of health, especially before discharge, following a birth. For example, malnutrition may be a concern due to competing demands for limited funds. Where health or social welfare concerns are identified, you should consider referring to an appropriate support service. Female genital mutilation. Additional.",
+            "wer": 0.0
+        }
+    },
+    {
+        "file_name": "medication_after_a_heart_attack_17.txt",
+        "ground_truth": "severe bruising, blood in the urine, black tarry stools or any other prolonged unexplained bleeding please report this to your GP. You may feel short of breath or gasp or sigh occasionally, which could be a side-effect of taking ticagrelor. Contact your GP if this occurs. If you are experiencing",
+        "generated": {
+            "transcription": "Severe bruising, blood in the urine, black-tary stools, or any other prolonged unexplained bleeding, please report this to your GP. You may feel short of breath or gasp or sigh occasionally, which could be a side effect of taking to Kagre-lure. Contact your GP if this occurs. If you are experiencing,",
+            "wer": 0.12
+        }
+    },
+    {
+        "file_name": "5_9_1_1.txt",
+        "ground_truth": "ACE inhibitors like ramipril are often started at 1.25\u20132.5 mg daily and gradually increased to 10 mg if tolerated. A beta-blocker such as bisoprolol is usually started at 1.25 mg daily and titrated to the highest dose the patient can tolerate, often up to 10 mg. Diuretics like furosemide are",
+        "generated": {
+            "transcription": "ACE inhibitors like ramipril are often started at 1.25 to 2.5 mm daily, and gradually increase to 10 mm if tolerated. A beta-blocker such as bisoprolol is usually started at 1.25 mm daily, and titrated to the highest dose the patient can tolerate, often up to 10 mm. Diuretics like furosemide are,",
+            "wer": 0.16
+        }
+    },
+    {
+        "file_name": "BNF_medication_guidelines_58_4.txt",
+        "ground_truth": "services for assessment and delivery of high-intensity or specialist treatments.",
+        "generated": {
+            "transcription": "Servuses for assessment and delivery of high intensity or specialist treatments.",
+            "wer": 0.3
+        }
+    },
+    {
+        "file_name": "7.5.7.txt",
+        "ground_truth": "\ufeffLifestyle changes, like eating healthy and quitting smoking, can make a big difference.",
+        "generated": {
+            "transcription": "Lifestyle changes like eating healthy and quitting smoking can make a big difference.",
+            "wer": 0.0
+        }
+    },
+    {
+        "file_name": "2_8_2.txt",
+        "ground_truth": "struggles to pump blood effectively. ACS can lead to abnormal heart rhythms, or arrhythmias, which may require further treatment to manage. If the blood clot in the artery isn\u2019t treated quickly, it can lead to tissue death in the affected part of the heart. There is a risk of cardiogenic",
+        "generated": {
+            "transcription": "struggles to pump blood effectively. ACS can lead to abnormal heart rhythms or arrhythmias, which may require further treatment to manage. If the blood clot in the artery isn\u2019t treated quickly, it can lead to tissue death in the affected part of the heart. There is a risk of cardiogenic,",
+            "wer": 0.0
+        }
+    },
+    {
+        "file_name": "pericarditis_9_1.txt",
+        "ground_truth": "Tamponade mimics: decompensated heart failure, pulmonary hypertension conditions, right ventricular MI. Investigations: Bedside: Basic observations (signs of shock), 12-lead ECG (widespread ST-elevation, PR depression, low voltage QRS/electrical alternans in tamponade) Laboratory: FBC (raised WBC), CRP/ESR (raised), troponin (elevated with myocarditis), U&E (renal dysfunction), LFTs (liver dysfunction) Imaging: Chest X-ray (cardiomegaly",
+        "generated": {
+            "transcription": "Tampinade mimics, decompensated heart failure, pulmonary hypertension conditions, right ventricular MI. Investigations. Bedside Basic observations, signs of shock 12-lead ECG, widespread ST elevation PR depression, low-voltage QRS electrical alternons in tamponade. Laboratory, FBC, raise WBC, CRP, ESR, raised, troponin, elevated with myocarditis,",
+            "wer": 0.4
+        }
+    },
+    {
+        "file_name": "presentation_of_chest_pain_1_5.txt",
+        "ground_truth": "haemoptysis (rare) Musculoskeletal Sudden or gradual onset, typically following exercise, strain or chest wall injury Pain reproducible on palpation and can be worsened by deep inspiration (pleuritic in nature) Gastro-oesophageal reflux Gradual onset central chest pain that is typically described as burning in character and worsened by lying flat Associated",
+        "generated": {
+            "transcription": "Hamoptuses, rare, muskilloscoletal, sudden or gradual onset, typically following exercise, strain or chest wall injury. Pain reproducible on palpation and can be worsened by deep inspiration. Pluritic in nature. Gastro-asophageal reflux Gradual onset central chest pain that is typically described as burning in character and worsened by lying flat associated.",
+            "wer": 0.08
+        }
+    },
+    {
+        "file_name": "10.2.10.txt",
+        "ground_truth": "\ufeffIn some communities, people may delay seeking medical care. I want to assure you that early intervention often leads to the best outcomes.",
+        "generated": {
+            "transcription": "In some communities, people may delay seeking medical care. I want to assure you that early intervention often leads to the best outcomes.",
+            "wer": 0.0
+        }
+    },
+    {
+        "file_name": "5_9_1_2.txt",
+        "ground_truth": "typically given at 20\u201340 mg daily to manage fluid retention. Aspirin at 75 mg daily may be prescribed after valve surgery or in cases of ischaemic heart disease. Warfarin is used for patients with mechanical valves, with an INR target of 3.0\u20133.5 depending on the valve type. For heart failure",
+        "generated": {
+            "transcription": "Typically given at 20\u201340 mg daily to manage fluid retention. Aspirin at 75 mg daily may be prescribed after valve surgery or in cases of ischemic heart disease. Warfarean is used for patients with mechanical valves with an INR target of 3.03.5 depending on the valve type. For heart failure,",
+            "wer": 0.04
+        }
+    },
+    {
+        "file_name": "7.9.10.txt",
+        "ground_truth": "\ufeffACE inhibitors, like ramipril, may be started at 2.5 mg daily for secondary prevention in certain patients.",
+        "generated": {
+            "transcription": "Ace inhibitors, like ramiprol, may be started at 2.5Modmaren daily for secondary prevention in certain patients.",
+            "wer": 0.17647058823529413
+        }
+    },
+    {
+        "file_name": "4_1_4.txt",
+        "ground_truth": "lungs or swelling in your legs. A raised jugular venous pressure is a sign of fluid buildup in your system. Your symptoms may worsen during physical activity and improve with rest. You may experience rapid or irregular heartbeats as part of heart failure. We\u2019ll look at your BNP levels to",
+        "generated": {
+            "transcription": "lungs or swelling in your legs. A raised jugular venous pressure is a sign of fluid buildup in your system. Your symptoms may worsen during physical activity and improve with rest. You may experience rapid or irregular heartbeats as part of heart failure. We\u2019ll look at your BNP levels, too.",
+            "wer": 0.02
+        }
+    },
+    {
+        "file_name": "6_2_3.txt",
+        "ground_truth": "can sometimes trigger atrial fibrillation. A family history of atrial fibrillation can mean you\u2019re at greater risk. Certain lifestyle factors, like excessive caffeine intake or stress, may contribute to AF episodes.",
+        "generated": {
+            "transcription": "Can sometimes trigger atrial fibrillation? A family history of atrial fibrillation can mean your at greater risk. Certain lifestyle factors, like excessive caffeine intake or stress, may contribute to AF episodes.",
+            "wer": 0.03225806451612903
+        }
+    },
+    {
+        "file_name": "9.2.10.txt",
+        "ground_truth": "\ufeffI\ufffdll summarize our conversation and the next steps to ensure we\ufffdre on the same page moving forward.",
+        "generated": {
+            "transcription": "While summarise our conversation and the next steps to ensure we're on the same page moving forward.",
+            "wer": 0.11764705882352941
+        }
+    },
+    {
+        "file_name": "7.5.5.txt",
+        "ground_truth": "\ufeffIt\ufffds important to manage angina to prevent it from getting worse or leading to a heart attack.",
+        "generated": {
+            "transcription": "It\ufffds important to manage angina to prevent it from getting worse or leading to a heart attack.",
+            "wer": 0.0
+        }
+    },
+    {
+        "file_name": "aortic_valve_replacement_1_2.txt",
+        "ground_truth": "replacing it with a new valve made from synthetic materials or animal tissue. It's a major operation that isn't suitable for everyone and can take a long time to recover from. When is it necessary to replace the aortic valve? The aortic valve may need to be replaced for 2",
+        "generated": {
+            "transcription": "Replacing it with a new valve made from synthetic materials or animal tissue. It's a major operation that isn't suitable for everyone and can take a long time to recover from. When is it necessary to replace the aortic valve? The aortic valve may need to be replaced for 2.",
+            "wer": 0.0
+        }
+    },
+    {
+        "file_name": "lifestyle_modifications_39.txt",
+        "ground_truth": "or saturated fat or dietary cholesterol, or to shift from saturated to unsaturated fat. The pooled results indicate that reducing or modifying dietary fat reduces the incidence of combined cardiovascular events by 16% (rate ratio 0.84; 95% CI 0.72 to 0.99) and cardiovascular mortality by 9% (rate ratio 0.91; 95%",
+        "generated": {
+            "transcription": "or saturated fat or dietary cholesterol, or to shift from saturated to unsaturated fat. The pooled results indicate that reducing or modifying dietary fat reduces the incidence of combined cardiovascular events by 16%. Rate ratio 0.84 95% CI 0.72 to 0.99 and cardiovascular mortality by 9%. Rate ratio 0.91 95%.",
+            "wer": 0.0
+        }
+    },
+    {
+        "file_name": "7.5.1.txt",
+        "ground_truth": "\ufeffStable angina happens when the heart isn\ufffdt getting enough blood during activities like exercise.",
+        "generated": {
+            "transcription": "Stable angina happens when the heart isn't getting enough blood during activities like exercise.",
+            "wer": 0.0
+        }
+    },
+    {
+        "file_name": "2_8_4.txt",
+        "ground_truth": "cases, a severe heart attack can cause a rupture in the heart\u2019s muscle or walls, which is a life-threatening emergency. The risk of complications from ACS is higher if other risk factors, like high blood pressure or diabetes, aren\u2019t well controlled.",
+        "generated": {
+            "transcription": "Cases, a severe heart attack can cause a rupture in the heart's muscle or walls, which is a life-threatening emergency. The risk of complications from ACS is higher if other risk factors, like high blood pressure or diabetes, aren't well controlled.",
+            "wer": 0.0
+        }
+    },
+    {
+        "file_name": "9.6.8.txt",
+        "ground_truth": "\ufeffThese treatments are highly effective, with excellent success rates, but there\ufffds a small chance we may need to repeat them in the future.",
+        "generated": {
+            "transcription": "These treatments are highly effective with excellent success rates, but there's a small chance we may need to repeat them in the future.",
+            "wer": 0.0
+        }
+    },
+    {
+        "file_name": "3_8_1.txt",
+        "ground_truth": "Uncontrolled high blood pressure can lead to heart disease over time, increasing your risk of heart attacks. Long-term high blood pressure can strain your heart, leading to a thickened heart muscle and potentially heart failure. Hypertension can damage blood vessels in the brain, raising your risk for stroke or transient",
+        "generated": {
+            "transcription": "Uncontrolled high blood pressure can lead to heart disease over time, increasing your risk of heart attacks. Long-term high blood pressure can strain your heart, leading to a thickened heart muscle and potentially heart failure. Hypertension can damage blood vessels in the brain, raising your risk for stroke or transient.",
+            "wer": 0.0
+        }
+    },
+    {
+        "file_name": "5_5_1.txt",
+        "ground_truth": "Your heart isn\u2019t pumping as strongly as it should, which is why you\u2019re feeling tired and breathless. We found a problem with one of your heart valves, causing blood to flow backward instead of forward. There\u2019s extra fluid building up in your lungs, making it harder to breathe, especially when",
+        "generated": {
+            "transcription": "Your heart isn't pumping as strongly as it should, which is why you're feeling tired and breathless. We found a problem with one of your heart valves, causing blood to flow backward instead of forward. There\u2019s extra fluid building up in your lungs, making it harder to breathe, especially when you\u2019rear\u2019rear\u2019s. It\u2019s a very good feeling that it should be. Your heart isn\u2019t pumping as strongly as it should, which is why you\u2019re feeling tired and breathless. We found a problem with one of your heart valves, causing blood to flow backward instead of forward. There\u2019s extra fluid building up in your lungs, making it harder to breathe, especially when\u2019s making it harder to breathe. Especially when\u2019s making it harder to breathe. Especially when\u2019s making it harder to breathe. Especially when\u2019s making it harder to breathe. Especially when\u2019s making it harder to breathe. Especially when\u2019s making it harder to breathe. Especially when\u2019s making it hard to breathe. Especially when\u2019s making it hard to breathe.",
+            "wer": 2.28
+        }
+    },
+    {
+        "file_name": "BNF_medication_guidelines_37.txt",
+        "ground_truth": "to patients with established atherosclerotic disease. Alternatively, clopidogrel can be considered in patients who are intolerant to aspirin or in whom it is contraindicated. For guidance on the use of antiplatelet drugs in patients with a history of stroke or transient ischaemic attack, see Stroke. For guidance on the use",
+        "generated": {
+            "transcription": "To patients with established atherosclerotic disease. Alternatively, clopidogrel can be considered in patients who are intolerant to aspirin or in whom it is contraindicated. For guidance on the use of antiplatelet drugs in patients with a history of stroke or transient ischemic attack, c stroke. For guidance on the use,",
+            "wer": 0.04
+        }
+    },
+    {
+        "file_name": "7.7.1.txt",
+        "ground_truth": "\ufeffQuit smoking to improve heart health and reduce further damage to blood vessels.",
+        "generated": {
+            "transcription": "Quit smoking to improve heart health and reduce further damage to blood vessels.",
+            "wer": 0.0
+        }
+    },
+    {
+        "file_name": "aortic_valve_replacement_1_4.txt",
+        "ground_truth": "and in severe cases can lead to life-threatening problems such as heart failure if left untreated. There are no medicines to treat aortic valve problems, so replacing the valve will be recommended if you're at risk of serious complications but are otherwise well enough to have surgery.",
+        "generated": {
+            "transcription": "And in severe cases can lead to life-threatening problems, such as heart failure, if left untreated. There are no medicines to treat aortic valve problems, so replacing the valve will be recommended if you're at risk of serious complications, but are otherwise well enough to have surgery.",
+            "wer": 0.0
+        }
+    },
+    {
+        "file_name": "3_5 _4.txt",
+        "ground_truth": "for your heart health. We\u2019ll work together to find the right balance of medications and lifestyle changes to help you feel your best.",
+        "generated": {
+            "transcription": "For your heart health, we\u2019ll work together to find the right balance of medications and lifestyle changes to help you feel your best.",
+            "wer": 0.0
+        }
+    },
+    {
+        "file_name": "8.7.9.txt",
+        "ground_truth": "\ufeffWe\ufffdll need to confirm the potassium levels with blood tests to correlate with the ECG findings.",
+        "generated": {
+            "transcription": "We\u2019ll need to confirm the potassium levels with blood tests to correlate with the ECG findings.",
+            "wer": 0.0
+        }
+    },
+    {
+        "file_name": "1_4_1_5.txt",
+        "ground_truth": "in three months..",
+        "generated": {
+            "transcription": "In 3 months..",
+            "wer": 0.3333333333333333
+        }
+    },
+    {
+        "file_name": "lifestyle_modifications_139.txt",
+        "ground_truth": "the ten trials with clinical event endpoints showed no signifi cant effect on total or cardiovascular disease mortality; this is consistent with the extent of changes in risk factors. However, trials that focused on participants with elevated blood pressure, and those that used drug treatment, demon- strated signifi cant reductions",
+        "generated": {
+            "transcription": "The 10 trials with clinical event endpoints showed no signifi can to effect on total or cardiovascular disease mortality. This is consistent with the extent of changes in risk factors. However, trials that focused on participants with elevated blood pressure and those that use drug treatment, demon, stated signifi cant reductions.",
+            "wer": 0.1
+        }
+    },
+    {
+        "file_name": "medication_after_a_heart_attack_60.txt",
+        "ground_truth": "and Valsartan This medicine combines two drugs into one tablet to have a stronger combined effect, it is often started as a step up from an ACEi or ARB. Valsartan is an ARB (Angiotensin II receptor blocker) which reduces effect of the hormone angiotensin II on the body. Angiotensin causes",
+        "generated": {
+            "transcription": "and Valsartan. This medicine combines two drugs into one tablet to have a stronger combined effect. It is often started as a step up from an ACI or ARB. Valsartan is an ARB, angiotensin2 receptor blocker, which reduces effect of the hormone angiotensin2 on the body. Angiotensin causes,",
+            "wer": 0.1
+        }
+    },
+    {
+        "file_name": "treating_a_cardiac_arrest_11_1.txt",
+        "ground_truth": "Extravasation may lead to tissue necrosis Contraindications: Hyperkalaemia Administration advice: Administer by slow injection over a few minutes Someone in cardiac arrest is commonly acidaemic, as such a measured hypokalaemia may actually represent a much larger potassium deficit given the patient\u2019s pH (as the acidaemia resolves, potassium will shift intracellularly",
+        "generated": {
+            "transcription": "Extravacation may lead to tissue necrosis. Contraindications, hypercholemia, administration advice. Administered by slow injection over a few minutes. Some one in cardiac arrest is commonly acidemic, as such a measured hypokolemia may actually represent a much larger potassium deficit, given the patient's pH. As the acidemia resolves, potassium will shift introsalularly,",
+            "wer": 0.18
+        }
+    },
+    {
+        "file_name": "3_2_1_3.txt",
+        "ground_truth": "further increase your risk of hypertension. African or Caribbean heritage can elevate the risk of hypertension, so we monitor blood pressure closely in these populations. High-stress levels over time can contribute to high blood pressure, so managing stress is a key part of prevention. Certain medications, like NSAIDs or oral",
+        "generated": {
+            "transcription": "Further increase your risk of hypertension. African or Caribbean heritage can elevate the risk of hypertension, so we monitor blood pressure closely in these populations. High stress levels over time can contribute to high blood pressure, so managing stress is a key part of prevention. Certain medications like NSAIDs or oral,",
+            "wer": 0.04
+        }
+    },
+    {
+        "file_name": "myocardial_infarction_1_1.txt",
+        "ground_truth": "Detection of a rise and/or fall in cardiac biomarker values (preferably troponin) with at least one value above the 99th percentile (upper reference limit) with at least one of the following: Symptoms of ischaemia (the patient\u2019s history and clinical presentation and the history are vital to guide your interpretation of",
+        "generated": {
+            "transcription": "Detection of a rise and or fall in cardiac biomarker values, preferably troponin, with at least one value above the 99th percentile, upper-reference limit, with at least one of the following. Symptoms of ischemia, the patient's history and clinical presentation, and the history are vital to guide your interpretation of.",
+            "wer": 0.1
+        }
+    },
+    {
+        "file_name": "lifestyle_modifications_49.txt",
+        "ground_truth": "CI 1.06 to 1.50), respectively (174). A prospective study in a Japanese cohort also showed that high dietary salt intake increased the risk of death from stroke (175). A study in hypertensive patients reported an inverse relation between sodium intake and cardiovascular outcomes (176) and suggested a J-curve relationship. This",
+        "generated": {
+            "transcription": "CI 1.06 to 150, respectively, 174. A prospective study in a Japanese cohort also showed that high dietary salt intake increased the risk of death from stroke, 175. A study in hypertensive patients reported an inverse relation between sodium intake and cardiovascular outcomes, 176, and suggested a J-curve relationship. This,",
+            "wer": 0.0
+        }
+    },
+    {
+        "file_name": "key_cardiovascular_symptoms_2.txt",
+        "ground_truth": "breath which may be exertional, related to lying down (orthopnoea) or wake the patient from sleep (paroxysmal nocturnal dyspnoea). Palpitations: a sensation of a fast-beating, fluttering or pounding heart that may feel regular or irregular. It can be useful to ask the patient to tap out the rhythm to assess",
+        "generated": {
+            "transcription": "Breath, which may be exertional, related to lying down, orthopnoea, or wake the patient from sleep, paroxysmal nocturnal dyspnoea. Palpitations A sensation of a fast-beating fluttering or pounding heart that may feel regular or irregular. It can be useful to ask the patient to tap out the rhythm to assess,",
+            "wer": 0.0
+        }
+    },
+    {
+        "file_name": "10.4.10.txt",
+        "ground_truth": "\ufeffIf your religious or cultural practices involve specific dietary restrictions, we\ufffdll work together to find alternatives that are both meaningful and beneficial.",
+        "generated": {
+            "transcription": "If your religious or cultural practices involve specific dietary restrictions, we\u2019ll work together to find alternatives that are both meaningful and beneficial.",
+            "wer": 0.0
+        }
+    },
+    {
+        "file_name": "lifestyle_modifications_61.txt",
+        "ground_truth": "years. The large, high-quality (and therefore most informative) studies used intensive behavioural interventions. Deaths and cardiovascular events were inconsistently defi ned and reported. There were 17 deaths, equally distributed between intervention and control groups. Systolic and diastolic blood pressures were reduced by 1.1 mmHg (95% CI 0.4 to 1.8 mmHg)",
+        "generated": {
+            "transcription": "Years. The large high quality and therefore most informative studies used intensive behavioral interventions. Deaths and cardiovascular events were inconsistently defined and reported. There were 17 deaths equally distributed between intervention and control groups. systolic and diastolic blood pressures were reduced by 1.1 mmA hags, 95% CI 0.4 to 1.8 mmA.",
+            "wer": 0.16
+        }
+    },
+    {
+        "file_name": "2_1 _2_6.txt",
+        "ground_truth": "cases of NSTEMI or STEMI. In ACS, the coronary arteries may be partially or completely blocked by a clot or ruptured plaque. ACS is an umbrella term that includes different types of heart attacks, like STEMI, NSTEMI, and unstable angina. With STEMI, we usually see specific changes on an ECG,",
+        "generated": {
+            "transcription": "Cases of Nistemi or Stemmi In ACS, the coronary arteries may be partially or completely blocked by a clot or ruptured plaque. ACS is an umbrella term that includes different types of heart attacks, like Stemmi and Stemmi, an unstable angina. With Stemmi, we usually see specific changes on an ECG.",
+            "wer": 0.14
+        }
+    },
+    {
+        "file_name": "8.4.10.txt",
+        "ground_truth": "\ufeffIf these ST interval changes are new, they may suggest an acute process requiring immediate attention.",
+        "generated": {
+            "transcription": "If these ST interval changes are new, they may suggest an acute process requiring immediate attention.",
+            "wer": 0.0
+        }
+    },
+    {
+        "file_name": "medication_after_a_heart_attack_61.txt",
+        "ground_truth": "narrowing of blood vessels and increased blood pressure. Sacubitril is an Neprilysin inhibitor which reduces the effect of the enzyme neprilysin. This enzyme breaks down protective natriuretic peptides which would otherwise cause relaxation of blood vessels and an overall lower blood pressure. By blocking the effect of angiotensin and increasing",
+        "generated": {
+            "transcription": "Neroing of blood vessels and increased blood pressure. Sacubitril is a nephrolison inhibitor, which reduces the effect of the enzyme nephrolison. This enzyme breaks down protective-natrioretic peptides, which would otherwise cause relaxation of blood vessels and an overall lower blood pressure. By blocking the effect of angiotensin and increasing.",
+            "wer": 0.12
+        }
+    },
+    {
+        "file_name": "3_9_4.txt",
+        "ground_truth": "can sometimes lead to higher potassium levels or, in men, breast tenderness. Hydrochlorothiazide is another diuretic option, usually starting at 12.5 to 25 mg once daily. A common side effect is frequent urination, along with possible dizziness or low potassium. Labetalol is beneficial if your blood pressure rises suddenly. We",
+        "generated": {
+            "transcription": "Can sometimes lead to higher potassium levels or in men, breast tenderness. Hydrochlorothiazide is another diuretic option, usually starting at 12.5 to 25 mm mod once daily. A common side effect is frequent urination, along with possible dizziness or low potassium. Lebetolol is beneficial if your blood pressure rises suddenly. We\u2019re not sure what to do, but we\u2019re not sure what to do. We\u2019re not sure what to do. We\u2019re not sure what to do. We\u2019re not sure what to do. We\u2019re not sure what to do. We\u2019re not sure what to do. We\u2019re not sure what to do. We\u2019re not sure what to do. We\u2019re not sure what to do. We\u2019re not sure what to do. We\u2019re not sure what to do. We\u2019re not sure what to do. We\u2019re not sure what to do. We\u2019re not sure what to do. We\u2019re not sure what to do. We\u2019re not sure what to do. We\u2019re not sure what to do. We\u2019re not sure what to do. We\u2019re not sure what to do. We\u2019re not sure what to do. We\u2019re not sure what to do. We\u2019re not sure what to do. We\u2019re not sure what to do. We\u2019re not sure what to do. We\u2019re not sure what to do. We\u2019re not sure what to do. We\u2019re not sure what to do. We\u2019re not sure what to do. We\u2019re not sure what to do. We\u2019re not sure what to do. We\u2019re not sure what to do. We\u2019re not sure what to do. We\u2019re not sure what to do. We\u2019re not sure what to do. We\u2019re not sure what to do. We\u2019re not sure what to",
+            "wer": 4.5
+        }
+    },
+    {
+        "file_name": "2_1 _6.txt",
+        "ground_truth": "to the heart muscle, often elevated in cases of NSTEMI or STEMI. In ACS, the coronary arteries may be partially or completely blocked by a clot or ruptured plaque. ACS is an umbrella term that includes different types of heart attacks, like STEMI, NSTEMI, and unstable angina. With STEMI, we",
+        "generated": {
+            "transcription": "To the heart muscle, often elevated in cases of Nstemi or Stemmy. In ACS the coronary arteries may be partially or completely blocked by a clot or ruptured plaque. ACS is an umbrella term that includes different types of heart attacks, like Stemmy, Nstemi, and unstable angina. With Stemmy, we,",
+            "wer": 0.06
+        }
+    },
+    {
+        "file_name": "5_3_1_2.txt",
+        "ground_truth": "managing heart failure. In some cases, we may recommend a device, like a pacemaker or defibrillator, to help regulate your heart rhythm. For advanced cases, valve replacement surgery may be necessary if a faulty heart valve is contributing to your condition. Medications like aldosterone antagonists can help reduce fluid retention",
+        "generated": {
+            "transcription": "Managing heart failure In some cases, we may recommend a device like a pacemaker or defibrillator to help regulate your heart rhythm. For advanced cases, valve replacement surgery may be necessary if a faulty heart valve is contributing to your condition. Medications like Aldosterone antagonists can help reduce fluid retention.",
+            "wer": 0.0
+        }
+    },
+    {
+        "file_name": "treating_a_cardiac_arrest_7_4.txt",
+        "ground_truth": "mL of 10% calcium chloride for hyperkalaemia / hypocalcaemia In calcium channel blocker overdose give 20 mL of 10% calcium chloride IV/IO Paeds: Bolus dose of 0.2 mL/kg of 10% calcium chloride (=0.136 mmol/kg) for hyperkalaemia / hypocalcaemia / calcium channel blocker overdose (OR 0.7mL/kg of calcium gluconate) Frequency: Every",
+        "generated": {
+            "transcription": "ML of 10% calcium chloride For hypercholemia, hypochalkemia In calcium channel blocker overdose, give 20ml of 10% calcium chloride IVIO pates. Bolistose of 0.2 ml key grow of 10% calcium chloride 0.136 mmol key grow For hypercholemia, hypochalkemia, calcium channel blocker overdose or 0.7 ml cause of calcium gluconate Frequency Every,",
+            "wer": 0.3829787234042553
+        }
+    },
+    {
+        "file_name": "2_1 _4.txt",
+        "ground_truth": "acute coronary syndrome. ACS occurs most often in patients with coronary artery disease, where plaque buildup restricts blood flow to the heart. The pain from ACS often feels constricting or heavy, and it may worsen with activity or stress. Some patients feel shortness of breath, which can happen as the",
+        "generated": {
+            "transcription": "acute coronary syndrome. ACS occurs most often in patients with coronary artery disease, where plaque buildup restricts blood flow to the heart. The pain from ACS often feels constricting or heavy, and it may worsen with activity or stress. Some patients feel shortness of breath, which can happen as the,",
+            "wer": 0.0
+        }
+    },
+    {
+        "file_name": "refugees_and_asylum_seekers_7.txt",
+        "ground_truth": "to catch-up patients with uncertain or incomplete vaccinations. Informing patients As with other patients, you need to inform refugees and asylum seekers about any testing, treatment or vaccinations offered to them. You may need to take extra care in explaining their rights to confidentiality. For example, you may need to",
+        "generated": {
+            "transcription": "To catch up patients with uncertain or incomplete vaccinations. Informing patients As with other patients, you need to inform refugees and asylum seekers about any testing, treatment, or vaccinations offered to them. You may need to take extra care and explaining their rights to confidentiality. For example, you may need to,",
+            "wer": 0.06
+        }
+    },
+    {
+        "file_name": "full_cardiovascular_exam_30.txt",
+        "ground_truth": "of the jugular venous pressure. Chest examination: Look to see if the chest wall is deformed (eg, funnel chest) and moves equally (inequality of expansion is usually due to respiratory disease). Note the respiratory rate; it is related to the pulse rate in the ratio of about 1:4 and remains",
+        "generated": {
+            "transcription": "of the jugular venous pressure. Chest examination Look to see if the chest wall is deformed. Edge, funnel chest, and moves equally. Inequality of expansion is usually due to respiratory disease. Note the respiratory rate. It is related to the pulse rate in the ratio of about 1.4 and remains.",
+            "wer": 0.02
+        }
+    },
+    {
+        "file_name": "key_cardiovascular_symptoms_1.txt",
+        "ground_truth": "Symptoms that are typically associated with cardiovascular disease include: Chest pain: typically central or left-sided (e.g. pericarditis) and may radiate to the left arm and jaw (e.g. acute coronary syndrome). In some cases, patients having a myocardial infarction may complain of neck pain rather than chest pain. Dyspnoea: shortness of",
+        "generated": {
+            "transcription": "Symptoms that are typically associated with cardiovascular disease include chest pain, typically central or left-sided, e.g. paracarditis, and may radiate to the left arm and jaw, e.g. acute coronary syndrome. In some cases, patients having a myocardial infarction may complain of neck pain rather than chest pain. dyspnoea, shortness of,",
+            "wer": 0.02
+        }
+    },
+    {
+        "file_name": "4_4_2.txt",
+        "ground_truth": "Pulmonary congestion evident on chest X-ray with bilateral basal crackles on auscultation. Documented orthopnoea, requiring two-pillow elevation to relieve symptoms. Blood pressure remains controlled; no signs of hypertensive emergency contributing to exacerbation. Third heart sound (S3 gallop) auscultated, indicating ventricular dysfunction. Acute exacerbation attributed to atrial fibrillation with rapid ventricular",
+        "generated": {
+            "transcription": "Pulmonary congestion evident on chest X-ray with bilateral basal crackles on oscultation. Documented orthopnoea, requiring 2-pillow elevation to relieve symptoms. Blood pressure remains controlled. No signs of hypertensive emergency contributing to exacerbation. Third heart sound S3 Gallup, oscultated, indicating ventricular dysfunction. Acute exacerbation attributed to atrial fibrillation with rapid",
+            "wer": 0.1
+        }
+    },
+    {
+        "file_name": "1_5_1_2.txt",
+        "ground_truth": "for any blockages in your arteries, which could explain the symptoms you\u2019re experiencing. Since your cholesterol and blood pressure are high, we\u2019ll focus on healthier eating, exercise, and stopping smoking to lower your risk. High blood pressure can happen when your arteries harden, making it harder for your heart to",
+        "generated": {
+            "transcription": "For any blockages in your arteries, which could explain the symptoms you\u2019re experiencing. Since your cholesterol and blood pressure are high, we\u2019ll focus on healthier eating, exercise, and stopping smoking to lower your risk. High blood pressure can happen when your arteries harden, making it harder for your heart to\u2019s",
+            "wer": 0.02
+        }
+    },
+    {
+        "file_name": "8.5.9.txt",
+        "ground_truth": "\ufeffThese changes may also be linked to medications, such as digoxin, which affects repolarization.",
+        "generated": {
+            "transcription": "These changes may also be linked to medications, such as digoxin, which affects repolarisation.",
+            "wer": 0.07142857142857142
+        }
+    },
+    {
+        "file_name": "5_3_1_3.txt",
+        "ground_truth": "and protect your heart function. We might consider a combination of drugs, tailored to your specific condition, to optimize your heart\u2019s performance. Some patients benefit from newer treatments like SGLT2 inhibitors, which have shown promise in improving heart failure symptoms. If a blocked artery is contributing to your condition, we",
+        "generated": {
+            "transcription": "and protect your heart function. We might consider a combination of drugs tailored to your specific condition to optimize your heart\ufffds performance. Some patients benefit from newer treatments like SGLT2 inhibitors, which have shown promise in improving heart failure symptoms. If a blocked artery is contributing to your condition, we\ufffdll",
+            "wer": 0.02
+        }
+    },
+    {
+        "file_name": "1_4_1_3.txt",
+        "ground_truth": "Patient with history of type 2 diabetes and chronic kidney disease is at elevated cardiovascular risk, warranting close monitoring and possible statin therapy. Patient reports intermittent claudication in the lower extremities, suggestive of peripheral arterial disease associated with cardiovascular disease. Recommendations discussed for smoking cessation and dietary modifications to address",
+        "generated": {
+            "transcription": "Patient with history of type II diabetes and chronic kidney disease is at elevated cardiovascular risk, warranting close monitoring and possible statin therapy. Patient reports intermittent clotication in the lower extremities, suggestive of peripheral arterial disease associated with cardiovascular disease. Recommendations discussed for smoking cessation and dietary modifications to address,",
+            "wer": 0.04
+        }
+    },
+    {
+        "file_name": "lifestyle_modifications_103.txt",
+        "ground_truth": "systolic blood pressure by 4.44 mmHg (95% CI 2.95 to 5.93 mmHg) and diastolic blood pressure by 3.57 mmHg (95% CI 2.25 to 4.88 mmHg). The long-term benefi t of weight reduction on blood pressure control has been con- fi rmed in several studies, including Phase II of the Trials",
+        "generated": {
+            "transcription": "systolic blood pressure by 4.44. Mike's 95% CI 2.95 to 5.93, makes and diastolic blood pressure by 3.57, makes a 95% CI 2.25 to 4.88, makes. The long-term benefiT of weight reduction on blood pressure control has been confi-armed in several studies, including phase 2 of the trials.",
+            "wer": 0.22
+        }
+    },
+    {
+        "file_name": "10.8.6.txt",
+        "ground_truth": "\ufeffFor many women, caregiving responsibilities can make it harder to focus on their health. Let\ufffds discuss ways to balance both.",
+        "generated": {
+            "transcription": "For many women, care-giving responsibilities can make it harder to focus on their health. Let\ufffds discuss ways to balance both.",
+            "wer": 0.0
+        }
+    },
+    {
+        "file_name": "BNF_medication_guidelines_43.txt",
+        "ground_truth": "the benefits and risks of switching to a high-intensity statin at their next medication review. For statin intensity categorisation, see Dyslipidaemias. Aiming for a reduction in non-HDL-cholesterol concentration of greater than 40% is recommended. JBS3 instead recommends a target non-HDL-cholesterol concentration below 2.5 mmol/litre. This level is also recommended in",
+        "generated": {
+            "transcription": "The benefits and risks of switching to a high-intensity statin at their next medication review. For statin intensity categorisation, see dyslipidamias. Aiming for a reduction in non-HDL cholesterol concentration of greater than 40% is recommended. JBS3 instead recommends a target non-HDL cholesterol concentration below 2.5 mm MOL. Leader. This level is also recommended in,",
+            "wer": 0.16
+        }
+    },
+    {
+        "file_name": "social_history _7_2.txt",
+        "ground_truth": "the impact of their symptoms on their ability to work. Enquire specifically about inactivity during work, occupational stress and shift pattern working, as these increase the risk of cardiovascular disease.3-4 Driving If the patient drives and has presented with chest pain, there may be certain circumstances in which they would",
+        "generated": {
+            "transcription": "The impact of their symptoms on their ability to work, inquire specifically about inactivity during work, occupational stress and shift pattern working, as these increase the risk of cardiovascular disease. 4. Driving If the patient drives and has presented with chest pain, there may be certain circumstances in which they would,",
+            "wer": 0.06
+        }
+    },
+    {
+        "file_name": "heart_failure_treatment _16.txt",
+        "ground_truth": "symptoms persist despite optimal titration, advice from a heart failure specialist should be sought. An angiotensin-converting enzyme (ACE) inhibitor (e.g. perindopril, ramipril, captopril, enalapril maleate, lisinopril, quinapril or fosinopril sodium) and a beta-blocker licensed for heart failure (e.g. bisoprolol fumarate, carvedilol, or nebivolol) should be given as first-line treatment to",
+        "generated": {
+            "transcription": "Symptoms persist despite optimal titration, advice from a heart failure specialist should be sought. An angiotensin converting enzyme, ACE inhibitor. EEG Perindopril, ramipril, captopril, enalipril, maleet, lisinopril, quinapril, or fosinopril sodium. And a beta-blocker licensed for heart failure, EE, bisoprolol fumurat, carvettelol, or nebivolol, should be given as first-line treatment to",
+            "wer": 0.16
+        }
+    },
+    {
+        "file_name": "3_4 _1_4.txt",
+        "ground_truth": "home blood pressure monitor, with readings to be recorded morning and evening for trend analysis..",
+        "generated": {
+            "transcription": "Home, blood pressure monitor, with readings to be recorded mourning and evening for trend analysis.",
+            "wer": 0.06666666666666667
+        }
+    },
+    {
+        "file_name": "full_cardiovascular_exam_35.txt",
+        "ground_truth": "the abdomen for hepatomegaly and splenomegaly (congestive cardiac failure), or spleen alone (infective endocarditis). Feel for enlargement of the aorta (aneurysm); feel with the hands flat either side of the aorta - feel for pulsation and tenderness. Peripheral oedema: Assess ankle swelling by pressing the thumb firmly (not hard) above",
+        "generated": {
+            "transcription": "The abdomen for hypatomagally and splenomagally congestive cardiac failure or spleen alone, infective endocarditis, feel for enlargement of the aorta aneurysm, feel with the hands flat either side of the aorta, feel for pulsation and tenderness. Peripheral oedema Acess ankle swelling by pressing the thumb firmly, not hard, above,",
+            "wer": 0.061224489795918366
+        }
+    },
+    {
+        "file_name": "lifestyle_modifications_73.txt",
+        "ground_truth": "trend). The relationships between intake of whole grains, refi ned grains, and fruit and vegetables, and total mortality risk and incidence of coronary artery disease and ischaemic stroke, were also evaluated in the Atherosclerosis Risk in Communities (ARIC) cohort (n = 15 792) (187). Over an 11-year follow-up period, whole-grain",
+        "generated": {
+            "transcription": "Trend. The relationships between intake of whole grains, refined ed grains, and fruit and vegetables, and total mortality risk and incidence of coronary artery disease and eschemic stroke, were also evaluated in the Atherosclerosis Risk and Communities, Aaric, cohort, NR in 1572, 187. Over an 11-year follow-up period, whole grain,",
+            "wer": 0.20408163265306123
+        }
+    },
+    {
+        "file_name": "social_history _7_3.txt",
+        "ground_truth": "need to stop driving and inform the DVLA. You can read more about specific driving restrictions in the DVLA guide for medical professionals..",
+        "generated": {
+            "transcription": "Need to stop driving and inform the DVLA. You can read more about specific driving restrictions in the DVLA guide for medical professionals.",
+            "wer": 0.0
+        }
+    },
+    {
+        "file_name": "5_2_1_3.txt",
+        "ground_truth": "fluid retention and higher cardiovascular strain. Previous heart attacks can damage the heart muscle, reducing its ability to pump efficiently. Prolonged exposure to poorly controlled stress can indirectly affect your heart health over time. Conditions like sleep apnoea can disrupt your heart\u2019s oxygen supply and increase long-term risks..",
+        "generated": {
+            "transcription": "Fluid retention and higher cardiovascular strain. Previous heart attacks can damage the heart muscle, reducing its ability to pump efficiently. Prolonged exposure to poorly controlled stress can indirectly affect your heart health over time. Conditions like sleep up New Year can disrupt your heart's oxygen supply and increase long-term risks.",
+            "wer": 0.0625
+        }
+    },
+    {
+        "file_name": "8.9.1.txt",
+        "ground_truth": "\ufeffYour heart sound shows an abnormal S2, which is caused by the closure of the aortic and pulmonary valves.",
+        "generated": {
+            "transcription": "Your heart sound shows an abnormal S2, which is caused by the closure of the aortic and pulmonary valves.",
+            "wer": 0.0
+        }
+    },
+    {
+        "file_name": "7.4.2.txt",
+        "ground_truth": "\ufeffMyocardial ischaemia occurs when the blood supply to the heart muscle is insufficient to meet demand.",
+        "generated": {
+            "transcription": "Myocardial ischemia occurs when the blood supply to the heart muscle is insufficient to meet demand.",
+            "wer": 0.0625
+        }
+    },
+    {
+        "file_name": "lifestyle_modifications_128.txt",
+        "ground_truth": "mortality (HR 1.15; 95% CI 1.03 to 1.28; P < 0.01), CVD mortality (HR 1.21; 95% CI 1.03 to 1.41; P < 0.05), and stroke mortality (HR 2.03; 95% CI 1.20 to 3.44; P < 0.01) were found in the quintile with the highest level of depressive symptoms compared with",
+        "generated": {
+            "transcription": "mortality HR 1.15 95% CI 1.032128 P 0.01 CVD mortality HR 1.21 95% CI 1.0321 41 P 0.05 and stroke mortality HR 2.03 95% CI 1.2234 P 0.01 We're found in the quintile with the highest level of depressive symptoms compared with",
+            "wer": 0.19148936170212766
+        }
+    },
+    {
+        "file_name": "9.7.9.txt",
+        "ground_truth": "\ufeffRemember to contact us immediately if you notice any sudden or severe symptoms, like worsening chest pain or swelling.",
+        "generated": {
+            "transcription": "Remember to contact us immediately if you notice any sudden or severe symptoms, like worsening chest pain or swelling.",
+            "wer": 0.0
+        }
+    },
+    {
+        "file_name": "heart_failure_treatment _15.txt",
+        "ground_truth": "only be of benefit in patients with mild fluid retention and an eGFR greater than 30 mL/minute/1.73 m2. Diuretic doses should be titrated according to clinical response and adjusted if needed following the initiation of subsequent heart failure treatments, to minimise the risk of dehydration, renal impairment or hypotension. If",
+        "generated": {
+            "transcription": "Only be of benefit in patients with mild fluid retention and an EGFR greater than 30 mm-1.73 mm low. Diuretic doses should be titrated according to clinical response and adjusted if needed following the initiation of subsequent heart failure treatments to minimize the risk of dehydration, renal impairment, or hypotension. If,",
+            "wer": 0.08
+        }
+    },
+    {
+        "file_name": "7.2.7.txt",
+        "ground_truth": "\ufeffSedentary lifestyles can contribute to the development of stable angina by worsening overall heart health.",
+        "generated": {
+            "transcription": "Sedentary lifestyles can contribute to the development of stable angina by worsening overall heart health.",
+            "wer": 0.0
+        }
+    },
+    {
+        "file_name": "5_4_1.txt",
+        "ground_truth": "Patient presents with dyspnoea on exertion, consistent with NYHA Class II heart failure. Physical examination reveals a pan-systolic murmur radiating to the axilla, suggestive of mitral regurgitation. Echocardiography demonstrates reduced left ventricular ejection fraction (LVEF) of 35%, indicative of heart failure with reduced ejection fraction (HF-rEF). Chest X-ray shows cardiomegaly",
+        "generated": {
+            "transcription": "Patient presents with dyspnoea on exertion, consistent with NYHA-class II heart failure. Physical examination reveals a pan-systolic murmur radiating to the axilla, suggestive of mitral regurgitation. Echocardiography demonstrates reduced left ventricular ejection fraction, LVEF of 35%. Indicative of heart failure, with reduced ejection fraction, HF-R-EF. Chest X-ray shows cardiomegaly,",
+            "wer": 0.04
+        }
+    },
+    {
+        "file_name": "6_1_5.txt",
+        "ground_truth": "or thyroid problems, that could cause these symptoms. If this is atrial fibrillation, it\u2019s important to treat it to reduce your risk of complications like stroke. You may need some additional tests, like a heart ultrasound or a monitor to track your heart rhythm over time. Understanding the cause of",
+        "generated": {
+            "transcription": "or thyroid problems that could cause these symptoms. If this is atrial fibrillation, it\u2019s important to treat it to reduce your risk of complications like stroke. You may need some additional tests, like a heart ultrasound or a monitor to track your heart rhythm over time. Understanding the cause of",
+            "wer": 0.0
+        }
+    },
+    {
+        "file_name": "7.6.3.txt",
+        "ground_truth": "\ufeffWill I always need medication for angina, or can it go away on its own?",
+        "generated": {
+            "transcription": "Will I always need medication for angina or can it go away on its own?",
+            "wer": 0.0
+        }
+    },
+    {
+        "file_name": "3_9_1.txt",
+        "ground_truth": "Ramipril is a common starting option to help control blood pressure. We\u2019ll begin with 1.25 to 2.5 mg once daily, then possibly increase it to 10 mg daily if needed. Some people notice a cough or dizziness as side effects. Amlodipine is effective for lowering blood pressure, especially in those",
+        "generated": {
+            "transcription": "Ramapril is a common starting option to help control blood pressure. We\u2019ll begin with 1.25 to 2.5 fawniners once daily, then possibly increase it to 10mAh daily if needed. Some people notice a cough or dizziness as side effects. Amlodipine is effective for lowering blood pressure, especially in those.",
+            "wer": 0.08
+        }
+    },
+    {
+        "file_name": "10.8.4.txt",
+        "ground_truth": "\ufeffGender roles can sometimes impact how patients express symptoms or concerns. Please feel free to share anything on your mind.",
+        "generated": {
+            "transcription": "Gender roles can sometimes impact how patients express symptoms or concerns. Please feel free to share anything on your mind.",
+            "wer": 0.0
+        }
+    },
+    {
+        "file_name": "9.7.5.txt",
+        "ground_truth": "\ufeffWe\ufffdll check your medications to make sure they\ufffdre still appropriate and make adjustments if needed.",
+        "generated": {
+            "transcription": "We\u2019ll check your medications to make sure they\u2019re still appropriate and make adjustments if needed.",
+            "wer": 0.0
+        }
+    },
+    {
+        "file_name": "3_4 _2.txt",
+        "ground_truth": "hypertensive retinopathy, with mild arteriolar narrowing observed bilaterally. Patient\u2019s QRISK3 score indicates a 12% 10-year cardiovascular risk, warranting initiation of antihypertensive therapy. Prescribed ACE inhibitor (ramipril 5 mg once daily) to address uncontrolled blood pressure; patient instructed on potential side effects. Patient is advised to reduce dietary sodium to <",
+        "generated": {
+            "transcription": "Hypertensive retinopathy, with mild arteriol or narrowing observed bilaterally. Patients' criss-c3 score indicates a 12% 10-year cardiovascular risk, warranting initiation of antihypertensive therapy. Prescribed ACE inhibitor, ramipril 5mg once daily, to address uncontrolled blood pressure, patient instructed on potential side effects. Patient is advised to reduce dietary sodium to,",
+            "wer": 0.10204081632653061
+        }
+    },
+    {
+        "file_name": "full_cardiovascular_exam_13.txt",
+        "ground_truth": "known. Ask whether there is any history of rheumatic fever or heart problems as a child. General: note any other operations or illnesses, especially history of myocardial infarction, hyperlipidaemia, hypertension, stroke, diabetes. Family cardiac history Ask about hypertension, coronary heart disease, stroke, diabetes, hyperlipidaemia, congenital heart disease and any early",
+        "generated": {
+            "transcription": "known. Ask whether there is any history of rheumatic fever or heart problems as a child. General Note any other operations or illnesses, especially history of myocardial infarction, hyperlipidemia, hypertension, stroke, diabetes. Family cardiac history, ask about hypertension, coronary heart disease, stroke, diabetes, hyperlipidemia, congenital heart disease and any early,",
+            "wer": 0.04
+        }
+    },
+    {
+        "file_name": "9.3.1.txt",
+        "ground_truth": "\ufeffI\ufffdm calling to check in on how you\ufffdve been managing your symptoms and any concerns you might have.",
+        "generated": {
+            "transcription": "I'm calling to check in on how you've been managing your symptoms, and any concerns you might have.",
+            "wer": 0.0
+        }
+    },
+    {
+        "file_name": "BNF_medication_guidelines_8.txt",
+        "ground_truth": "CVD, familial hypercholesterolaemia, chronic kidney disease or diabetes and who are not receiving treatment to reduce blood pressure or lipids. As well as to patients with a first-degree relative who has premature atherosclerotic CVD or familial dyslipidaemia, regardless of their age. Risk assessment with a calculator is not required in",
+        "generated": {
+            "transcription": "CVD, familial hypercholesterolemia, chronic kidney disease or diabetes, and who are not receiving treatment to reduce blood pressure or lipids. As well as to patients with a first-degree relative who has premature atherosclerotic CVD or familial dyslipidemia, regardless of their age. Risk assessment with a calculator is not required in,",
+            "wer": 0.04
+        }
+    },
+    {
+        "file_name": "4_4_1_2.txt",
+        "ground_truth": "Pulmonary congestion evident on chest X-ray with bilateral basal crackles on auscultation. Documented orthopnoea, requiring two-pillow elevation to relieve symptoms. Blood pressure remains controlled; no signs of hypertensive emergency contributing to exacerbation. Third heart sound (S3 gallop) auscultated, indicating ventricular dysfunction. Acute exacerbation attributed to atrial fibrillation with rapid ventricular",
+        "generated": {
+            "transcription": "Pulmonary congestion evident on chest X-ray with bilateral basal crackles on oscultation. Documented orthopnoea, requiring 2-pillow elevation to relieve symptoms. Blood pressure remains controlled, no signs of hypertensive emergency contributing to exacerbation. Third heart sound, S3 gallop, oscultated, indicating ventricular dysfunction. Acute exacerbation attributed to atrial fibrillation with rapid ventricular,",
+            "wer": 0.06
+        }
+    },
+    {
+        "file_name": "8.3.5.txt",
+        "ground_truth": "\ufeffThese changes in the PR interval are often found incidentally and don\ufffdt always require treatment.",
+        "generated": {
+            "transcription": "These changes in the PR interval are often found incidentally and don\ufffdt always require treatment.",
+            "wer": 0.0
+        }
+    },
+    {
+        "file_name": "heart_failure_treatment _24.txt",
+        "ground_truth": "checked prior to starting treatment, 1-2 weeks after starting treatment, and at each dose increment. Once the target, or maximum tolerated dose is achieved, treatment should be monitored monthly for 3 months and then at least every 6 months, and if the patient becomes acutely unwell. When initiating beta blockers,",
+        "generated": {
+            "transcription": "Checked prior to starting treatment 1 to 2 weeks after starting treatment and at each dose increment. Once the target or maximum tolerated dose is achieved, treatment should be monitored monthly for three months and then at least every six months and if the patient becomes acutely unwell. When initiating beta-blockers,",
+            "wer": 0.14
+        }
+    },
+    {
+        "file_name": "8.5.3.txt",
+        "ground_truth": "\ufeffInverted T waves can indicate myocardial ischemia, where the heart muscle is not getting enough oxygen.",
+        "generated": {
+            "transcription": "Inverted T waves can indicate myocardial ischemia, where the heart muscle is not getting enough oxygen.",
+            "wer": 0.0
+        }
+    },
+    {
+        "file_name": "10.10.10.txt",
+        "ground_truth": "\ufeffThere\ufffds a misconception that once heart disease develops, nothing can be done. Modern treatments and lifestyle changes can significantly improve outcomes.",
+        "generated": {
+            "transcription": "There's a misconception that once heart disease develops, nothing can be done. Modern treatments and lifestyle changes can significantly improve outcomes.",
+            "wer": 0.0
+        }
+    },
+    {
+        "file_name": "aortic_valve_replacement_12.txt",
+        "ground_truth": "much smaller than that of leaving severe aortic valve problems untreated. Most people who survive surgery have a life expectancy close to normal. Read more about the risks of aortic valve replacement. Alternatives to an aortic valve replacement An aortic valve replacement is the most effective treatment for aortic valve",
+        "generated": {
+            "transcription": "Much smaller than that of leaving severe aortic valve problems untreated. Most people who survive surgery have a life expectancy close to normal. Read more about the risks of aortic valve replacement Alternatives to an aortic valve replacement An aortic valve replacement is the most effective treatment for aortic valve.",
+            "wer": 0.0
+        }
+    },
+    {
+        "file_name": "8.5.1.txt",
+        "ground_truth": "\ufeffYour ECG shows T wave changes, which can provide insight into the heart\ufffds repolarization phase.",
+        "generated": {
+            "transcription": "Your ECG shows T wave changes, which can provide insight into the heart's repolarisation phase.",
+            "wer": 0.06666666666666667
+        }
+    },
+    {
+        "file_name": "1_8_1_1.txt",
+        "ground_truth": "If left unmanaged, atherosclerosis can lead to further narrowing of the arteries, increasing the risk of a heart attack or stroke. As plaque continues to build up, it can harden the arteries, which may lead to chronic high blood pressure and strain on the heart. Reduced blood flow from narrowed",
+        "generated": {
+            "transcription": "If left unmanaged, atherosclerosis can lead to further narrowing of the arteries, increasing the risk of a heart attack or stroke. As plaque continues to build up, it can harden the arteries, which may lead to chronic high blood pressure and strain on the heart. Reduced blood flow from narrowed,",
+            "wer": 0.0
+        }
+    },
+    {
+        "file_name": "2_4 _1.txt",
+        "ground_truth": "Patient presents with chest pain radiating to the left arm, accompanied by diaphoresis and dyspnoea, consistent with ACS. ECG reveals 2 mm ST-segment elevation in leads II, III, and aVF, indicating an inferior STEMI likely involving the right coronary artery. Troponin levels are elevated above baseline, confirming myocardial injury consistent",
+        "generated": {
+            "transcription": "Patient presents with chest pain radiating to the left arm, accompanied by diaphoresis and dyspnoea, consistent with ACS. ECG reveals 2 mm ST segment elevation in leads to 2\u20133 and AVF, indicating an inferior stemmi, likely involving the right coronary artery. Troponin levels are elevated above baseline, confirming myocardial injury consistent.",
+            "wer": 0.1
+        }
+    },
+    {
+        "file_name": "10.2.1.txt",
+        "ground_truth": "\ufeffSome people believe that herbal or traditional remedies play a significant role in heart health; we can discuss how these might fit alongside your medical treatment.",
+        "generated": {
+            "transcription": "Some people believe that herbal or traditional remedies play a significant role in heart health. We can discuss how these might fit alongside your medical treatment.",
+            "wer": 0.0
+        }
+    },
+    {
+        "file_name": "5_8_3.txt",
+        "ground_truth": "Complications from heart disease may include blood clots or strokes. Progressive heart failure may lead to reduced quality of life and limited mobility.",
+        "generated": {
+            "transcription": "Complications from heart disease may include blood clots or strokes, progressive heart failure may lead to reduced quality of life and limited mobility.",
+            "wer": 0.0
+        }
+    },
+    {
+        "file_name": "lifestyle_modifications_57.txt",
+        "ground_truth": "24-h urinary sodium excretion was 74 mmol (4.4 g of salt), the mean reduction in systolic blood pressure was 2.03 mmHg (95% CI 1.50 to 2.56 mmHg), and the mean reduction in diastolic blood pressure was 0.99 mmHg (95% CI 0.57 to 1.40 mmHg).This demonstrates a cor- relation between the",
+        "generated": {
+            "transcription": "24H urinary sodium excretion was 74 mmol, 4.4g of salt. The mean reduction in systolic blood pressure was 2.03 mmHg. 95% CI, 150 to 2.56 mmHg. And the mean reduction in diastolic blood pressure was 0.99 mmHg. 95% CI, 0.57 to 1.40 mmHg. This demonstrates a correlation between the",
+            "wer": 0.12
+        }
+    },
+    {
+        "file_name": "3_7_1.txt",
+        "ground_truth": "Reducing salt in your diet to under 6 grams a day can help lower your blood pressure significantly. Incorporating more fruits and vegetables into your meals gives your body potassium, which helps balance blood pressure. Regular exercise, like brisk walking for 30 minutes most days, strengthens your heart and reduces",
+        "generated": {
+            "transcription": "Reducing salt in your diet to under 6 grams a day can help lower your blood pressure significantly. Incorporating more fruits and vegetables into your meals gives your body potassium, which helps balance blood pressure. Regular exercise like brisk walking for 30 minutes most days, strengthens your heart and reduces.",
+            "wer": 0.0
+        }
+    },
+    {
+        "file_name": "9.7.7.txt",
+        "ground_truth": "\ufeffIf you have any questions about the procedure or your recovery, please don\ufffdt hesitate to ask.",
+        "generated": {
+            "transcription": "If you have any questions about the procedure or your recovery, please don\u2019t hesitate to ask.",
+            "wer": 0.0
+        }
+    },
+    {
+        "file_name": "2_5_1_3.txt",
+        "ground_truth": "we\u2019ll use medication to help make you comfortable, as well as a spray to relax your blood vessels. If the tests confirm a blocked artery, we\u2019ll plan a procedure to open it up and put in a stent to keep it open. For some patients, medication can dissolve a clot",
+        "generated": {
+            "transcription": "We\u2019ll use medication to help make you comfortable, as well as a spray to relax your blood vessels. If the tests confirm a blocked artery, we\u2019ll plan a procedure to open it up and put in a stent to keep it open. For some patients, medication can dissolve a clot.",
+            "wer": 0.0
+        }
+    },
+    {
+        "file_name": "medication_after_a_heart_attack_53.txt",
+        "ground_truth": "medicines for erectile dysfunction please let a member of the team know. We can provide further information Other medicines that may be used MRAs For example, Spironolactone, Eplerenone These medicines are called Mineralcorticoid Receptor Antagonists. They help to reduce the effects of a hormone (called aldosterone) on the heart and",
+        "generated": {
+            "transcription": "Medicines for erectile dysfunction, please let a member of the team know. We can provide further information. Other medicines that may be used MRAZ. For example, Spironolactone, Eplarinone These medicines are called mineral-corticoid receptor antagonists. They help to reduce the effects of a hormone called Aldosterone on the heart and",
+            "wer": 0.04
+        }
+    },
+    {
+        "file_name": "lifestyle_modifications_90.txt",
+        "ground_truth": "of physical activity on cardiovascular risk may be mediated, at least in part, through these effects on intermediate risk factors. Physical inactivity and low physical fi tness are independent predictors of mortality in people with type 2 diabetes (210). Overall, the evidence points to the benefi t of continued regular",
+        "generated": {
+            "transcription": "A physical activity on cardiovascular risk may be mediated, at least in part, through these effects on intermediate risk factors. Physical inactivity and low-phitiness are independent predictors of mortality in people with type 2 diabetes, 2-10. Overall, the evidence points to the benefi t of continued regular.",
+            "wer": 0.1
+        }
+    },
+    {
+        "file_name": "lifestyle_modifications_84.txt",
+        "ground_truth": "Results showed modest improvements in reported dietary intake (lower salt and fat, higher fruit, vegetables and fi bre) and cardiovascular risk factors (blood pressure, total cholesterol, and LDL-cholesterol). Greater effectiveness was observed among individuals told they were at greater risk of heart disease, and in interventions with greater intensity and",
+        "generated": {
+            "transcription": "Results showed modest improvements in reported dietary intake, lower salt and fat, higher fruit, vegetables and 5BRE, and cardiovascular risk factors. Blood pressure, total cholesterol, and LDL cholesterol. Greater effectiveness was observed among individuals, told they were at greater risk of heart disease and in interventions with greater intensity and,",
+            "wer": 0.08
+        }
+    },
+    {
+        "file_name": "cardiac_catheterisation_split1_2.txt",
+        "ground_truth": "if you experience excessive bleeding or circulation problems in your limbs. Complications Cardiac catheterisation and coronary angiography are usually very safe. But as with all procedures, there are some risks, including: being allergic to the contrast dye \u2013 this is uncommon, but you should discuss any allergies you have with",
+        "generated": {
+            "transcription": "if you experience excessive bleeding or circulation problems in your limbs. Complications Cardiac catheterisation and coronary angiography are usually very safe. But as with all procedures, there are some risks, including being allergic to the contrast dye. This is uncommon, but you should discuss any allergies you have with",
+            "wer": 0.0
+        }
+    },
+    {
+        "file_name": "1_3_2_1.txt",
+        "ground_truth": "Medications and lifestyle adjustments help to protect the heart and reduce further risk. The Health Check Programme offers regular screenings every 5 years for people aged 40-74 to assess cardiovascular disease risk and encourage preventive action. Regular physical activity\u2014such as walking, cycling, or other aerobic exercises\u2014is recommended to strengthen the",
+        "generated": {
+            "transcription": "Medications and lifestyle adjustments help to protect the heart and reduce further risk. The Health Check Program offers regular screenings every 5 years for people aged 40\u201374 to assess cardiovascular disease risk and encourage preventive action. Regular physical activity, such as walking, cycling, or other erobic exercises, is recommended to strengthen the E.",
+            "wer": 0.14
+        }
+    },
+    {
+        "file_name": "8.1.1.txt",
+        "ground_truth": "\ufeffYour ECG shows some findings that are considered normal for someone with your level of physical fitness.",
+        "generated": {
+            "transcription": "Your ECG shows some findings that are considered normal for someone with your level of physical fitness.",
+            "wer": 0.0
+        }
+    },
+    {
+        "file_name": "lifestyle_modifications_52.txt",
+        "ground_truth": "to alter salt intake, which included 17 randomized controlled trials in people with high blood pressure and 11 in people with normal blood pres- sure, a reduction of 100 mmol (6 g) per day in salt intake was associated with a fall in blood pressure of 7.11 mmHg (systolic) and",
+        "generated": {
+            "transcription": "To alter salt intake, which included 17 randomized controlled trials in people with high blood pressure and 11 in people with normal blood press, sure, a reduction of 100 mm-ol 6G per day in salt intake was associated with a fall in blood pressure of 7.10, 11 mmHG, systolic, and 167 mmHG.",
+            "wer": 0.14
+        }
+    },
+    {
+        "file_name": "world_health_organisation_20.txt",
+        "ground_truth": "examination is essential, and should include careful measurement of blood pres- sure, as described below. Other important elements of the physical examination include: \u25cf measurement of height and weight, and calculation of body mass index (BMI) (weight in kilo- grams divided by the square of height in meters); measurement of",
+        "generated": {
+            "transcription": "Examination is essential and should include careful measurement of blood press. Sure, as described below. Other important elements of the physical examination include, measurement of height and weight and calculation of body mass index, BMI. Weight and kilograms divided by the square of height and meters, measurement of 165.",
+            "wer": 0.12244897959183673
+        }
+    },
+    {
+        "file_name": "heart_block _6_3.txt",
+        "ground_truth": "very quickly.",
+        "generated": {
+            "transcription": "Very quickly.",
+            "wer": 0.0
+        }
+    },
+    {
+        "file_name": "7.8.4.txt",
+        "ground_truth": "\ufeffExercise regularly with moderate activities like walking or swimming, as advised by your doctor.",
+        "generated": {
+            "transcription": "Exercise regularly with moderate activities like walking or swimming, as advised by your doctor.",
+            "wer": 0.0
+        }
+    },
+    {
+        "file_name": "medication_after_a_heart_attack_78.txt",
+        "ground_truth": "and cause a stroke. If you are commenced on an anticoagulant, you will be given additional written information about these medicines. Warfarin: This has been used for many years to prevent clotting of the blood and is most often used for people who have an irregular heart rhythm such as",
+        "generated": {
+            "transcription": "and cause a stroke. If you are commenced on an anti-coagulant, you will be given additional written information about these medicines. Warfarean This has been used for many years to prevent clotting of the blood and is most often used for people who have an irregular heart rhythm, such as,",
+            "wer": 0.02
+        }
+    },
+    {
+        "file_name": "medication_after_a_heart_attack_44.txt",
+        "ground_truth": "them with some food may reduce the risk of upset stomach and diarrhoea. Side-effects: Most people experience no side-effects from statins. Feeling sick (nausea), stomach upset (for example; diarrhoea, bloating, flatulence), headache and tiredness can occur. Muscular aches and pains can occur. We all get muscle aches from time to",
+        "generated": {
+            "transcription": "Then with some food may reduce the risk of upset stomach and diarrhea. Side effects Most people experience no side effects from statins. Feeling sick, nausea, stomach upset, for example, diarrhea, bloating, flatulants. Headache and tiredness can occur. Muscular aches and pains can occur we all get muscle aches from time to.",
+            "wer": 0.16
+        }
+    },
+    {
+        "file_name": "6_9_4.txt",
+        "ground_truth": "2 and 3 with regular monitoring. Digoxin may be prescribed at an initial dose of 125-250 mcg daily, particularly for sedentary patients. Edoxaban is taken as 60 mg once daily, but the dose may be halved for patients with reduced kidney function.",
+        "generated": {
+            "transcription": "2 and 3 with regular monitoring. Digoxin may be prescribed at an initial dose of 125\u2013250 mg daily, particularly for sedentary patients. A doxaban is taken as 60 mg once daily, but the dose may be halved for patients with reduced kidney function.",
+            "wer": 0.07142857142857142
+        }
+    },
+    {
+        "file_name": "heart_failure_treatment _20.txt",
+        "ground_truth": "receptor antagonist such as spironolactone or eplerenone should be offered as add-on therapy unless contraindicated (e.g. due to hyperkalaemia or renal impairment). Hydralazine hydrochloride combined with a nitrate can be considered under the advice of a heart failure specialist in patients who are intolerant of both ACE inhibitors and ARBs",
+        "generated": {
+            "transcription": "Receptor antagonist, such as Spironolactone or Appleronone, should be offered as add-on therapy, unless contraindicated, e.g. due to hypercholemia or renal impairment. Hydrolazine hydrochloride, combined with anitrate, can be considered under the advice of a heart failure specialist in patients who are intolerant of both ACE inhibitors and ARBs.",
+            "wer": 0.1
+        }
+    },
+    {
+        "file_name": "lifestyle_modifications_78.txt",
+        "ground_truth": "400 g of fruit and vegetables is recommended (86). 1.2.5 Summary Dietary intakes of fat, cholesterol, fruits and vegetables, fi sh and sodium are linked to cardiovascu- lar risk. There is a considerable body of evidence regarding the nutritional background of athero- sclerosis in general and CHD in particular. However,",
+        "generated": {
+            "transcription": "400g of fruit and vegetables is recommended. 86, 1.2.5, summary Dietary intakes of fat, cholesterol, fruits and vegetables, FISH and sodium are linked to cardiovascular LAR risk. There is a considerable body of evidence regarding the nutritional background of atherosclerosis in general and CHD in particular. However,",
+            "wer": 0.14
+        }
+    },
+    {
+        "file_name": "4_8_1.txt",
+        "ground_truth": "Heart failure can worsen over time, leading to more severe symptoms. Fluid buildup may progress, causing swelling and difficulty breathing. Frequent hospitalizations can occur as heart failure advances. Arrhythmias may develop, increasing the risk of stroke or cardiac arrest. Worsening heart function can impact the kidneys and liver due to",
+        "generated": {
+            "transcription": "Heart failure can worsen over time, leading to more severe symptoms. Fluid buildup may progress, causing swelling and difficulty breathing. Frequent hospitalizations can occur as heart failure advances. Arrhythmia is may develop, increasing the risk of stroke or cardiac arrest. Worcening heart function can impact the kidneys and liver due to,",
+            "wer": 0.06
+        }
+    },
+    {
+        "file_name": "8.10.6.txt",
+        "ground_truth": "\ufeffFor the heart sounds exam, you may remain seated or lie slightly elevated to help us get the most accurate results.",
+        "generated": {
+            "transcription": "For the heart sounds exam, you may remain seated or lie slightly elevated to help us get the most accurate results.",
+            "wer": 0.0
+        }
+    },
+    {
+        "file_name": "4_5_1_2.txt",
+        "ground_truth": "more easily, especially when walking or lying flat in bed. Sometimes, you may wake up suddenly at night feeling like you can't catch your breath\u2014this is a common symptom. Heart failure doesn\u2019t mean your heart has stopped working, but it needs extra support to do its job. You might have",
+        "generated": {
+            "transcription": "More easily, especially when walking or lying flat and bed. Sometimes, you may wake up suddenly at night feeling like you can't catch your breath. This is a common symptom. Heart failure doesn't mean your heart has stopped working, but it needs extra support to do its job. You might have..",
+            "wer": 0.06
+        }
+    },
+    {
+        "file_name": "10.2.6.txt",
+        "ground_truth": "\ufeffDiet plays a central role in Middle Eastern health beliefs. We can talk about how to adapt traditional foods to support your heart health.",
+        "generated": {
+            "transcription": "Diet plays a central role in Middle Eastern health beliefs. We can talk about how to adapt traditional foods to support your heart health.",
+            "wer": 0.0
+        }
+    },
+    {
+        "file_name": "medication_after_a_heart_attack_51.txt",
+        "ground_truth": "it. How to take: The tablets should be taken twice daily (at 8am and 2pm). This allows a \u201cnitrate-free\u201d period later in the day and means that the effect of the drug does not lessen over time. This can be a problem with these medicines. Side-effects: The most common side-effects",
+        "generated": {
+            "transcription": "It, how to take? The tablets should be taken twice daily at 8am and 2pm. This allows a nitrate free period later in the day and means that the effect of the drug does not lessen over time. This can be a problem with these medicines. Side effects The most common side effects?",
+            "wer": 0.12
+        }
+    },
+    {
+        "file_name": "medication_after_a_heart_attack_79.txt",
+        "ground_truth": "atrial fibrillation. It is also used in people with disease of the heart valves, especially those who have been given an artificial heart valve. You will need regular blood tests (called an INR) to ensure you are on the correct dose. Direct oral anticoagulants For example; apixaban, rivaroxaban, edoxaban or",
+        "generated": {
+            "transcription": "atrial fibrillation. It is also used in people with disease of the heart valves, especially those who have been given an artificial heart valve. You will need regular blood tests called an INR to ensure you are on the correct dose. Direct oral anticoagulants For example, apixabin, rivotoxaban, edoxaban or,",
+            "wer": 0.04
+        }
+    },
+    {
+        "file_name": "7.8.5.txt",
+        "ground_truth": "\ufeffMaintain a healthy weight to reduce strain on your heart and lower cholesterol levels.",
+        "generated": {
+            "transcription": "Maintain a healthy weight to reduce strain on your heart and lower cholesterol levels.",
+            "wer": 0.0
+        }
+    },
+    {
+        "file_name": "world_health_organisation_23.txt",
+        "ground_truth": "and complications of diabetes.",
+        "generated": {
+            "transcription": "and complications of diabetes.",
+            "wer": 0.0
+        }
+    },
+    {
+        "file_name": "9.2.2.txt",
+        "ground_truth": "\ufeffCan you tell me a bit more about how you\ufffdve been feeling recently, especially any chest discomfort or shortness of breath?",
+        "generated": {
+            "transcription": "Can you tell me a bit more about how you've been feeling recently, especially any chest discomfort or shortness of breath?",
+            "wer": 0.0
+        }
+    },
+    {
+        "file_name": "5_9_2.txt",
+        "ground_truth": "typically given at 20\u201340 mg daily to manage fluid retention. Aspirin at 75 mg daily may be prescribed after valve surgery or in cases of ischaemic heart disease. Warfarin is used for patients with mechanical valves, with an INR target of 3.0\u20133.5 depending on the valve type. For heart failure",
+        "generated": {
+            "transcription": "Typically given at 2040 mg daily to manage fluid retention. Aspirin at 75 mg daily may be prescribed after valve surgery or in cases of ischemic heart disease. Warfarean is used for patients with mechanical valves with an INR target of 3.0 3.5 depending on the valve type. For heart failure,",
+            "wer": 0.08
+        }
+    },
+    {
+        "file_name": "9.8.9.txt",
+        "ground_truth": "\ufeffUnexpected severe back, neck, or jaw pain, particularly if it occurs alongside chest symptoms, can indicate a cardiac emergency.",
+        "generated": {
+            "transcription": "Unexpected severe back neck or jaw pain, particularly if it occurs alongside chest symptoms, can indicate a cardiac emergency.",
+            "wer": 0.0
+        }
+    },
+    {
+        "file_name": "10.7.5.txt",
+        "ground_truth": "\ufeffIf you prefer exercising in a more private or family-oriented setting, we can explore options that suit your lifestyle.",
+        "generated": {
+            "transcription": "If you prefer exercising in a more private or family-oriented setting, we can explore options that suit your lifestyle.",
+            "wer": 0.0
+        }
+    },
+    {
+        "file_name": "8.6.3.txt",
+        "ground_truth": "\ufeffIn some cases, left axis deviation may indicate conditions like left anterior hemiblock or left ventricular hypertrophy.",
+        "generated": {
+            "transcription": "In some cases, left-axis deviation may indicate conditions like left- anterior hemiblock or left ventricular hypertrophy.",
+            "wer": 0.11764705882352941
+        }
+    },
+    {
+        "file_name": "2_4 _1_4.txt",
+        "ground_truth": "strict adherence to secondary prevention medications, including beta-blocker, ACE inhibitor, and statin therapy..",
+        "generated": {
+            "transcription": "Stricted hearings to secondary prevention medications, including beta-blocker, ACE inhibitor, and statin therapy.",
+            "wer": 0.15384615384615385
+        }
+    },
+    {
+        "file_name": "lifestyle_modifications_178.txt",
+        "ground_truth": "as use of ACE inhibitors and ARBs in pregnancy, are absolute; most, however, are related to the fact that certain drugs could aggravate various conditions. While certain drugs may be more likely to induce side-effects in particular patients, they may still be used if they are strongly indicated and if",
+        "generated": {
+            "transcription": "As use of ACE inhibitors and ARBs in pregnancy are absolute. Most, however, are related to the fact that certain drugs could aggravate various conditions. While certain drugs may be more likely to induce side effects in particular patients, they may still be used if they are strongly indicated and if",
+            "wer": 0.04
+        }
+    },
+    {
+        "file_name": "9.2.1.txt",
+        "ground_truth": "\ufeffThank you for taking the time to speak with me today about your heart health.",
+        "generated": {
+            "transcription": "Thank you for taking the time to speak with me today about your heart health.",
+            "wer": 0.0
+        }
+    },
+    {
+        "file_name": "1_2_1_1.txt",
+        "ground_truth": "Older age is a non-modifiable risk factor for cardiovascular disease, meaning it can increase risk even though we can\u2019t control it. For cardiovascular health, managing cholesterol is essential, as high levels can lead to plaque buildup in the arteries. Family history of heart disease is also a key risk factor",
+        "generated": {
+            "transcription": "Older age is a non-modifiable risk factor for cardiovascular disease, meaning it can increase risk even though we can't control it. For cardiovascular health, managing cholesterol is essential, as high levels can lead to plaque buildup in the arteries. Family history of heart disease is also a key risk factor.",
+            "wer": 0.0
+        }
+    },
+    {
+        "file_name": "BNF_medication_guidelines_56_1.txt",
+        "ground_truth": "NICE (2016) recommends that the use of higher doses in those with chronic kidney disease with an eGFR less than 30ml/minute/1.73 m2 should be discussed with a renal specialist. Specialist advice should be sought regarding treatment options in patients with existing CVD who are intolerant of three different statins. SIGN",
+        "generated": {
+            "transcription": "NICE, 2016, recommends that the use of higher doses in those with chronic kidney disease with an EGFR less than 30mol per minute 1.73 minicoun should be discussed with a renal specialist. Specialist advice should be sought regarding treatment options in patients with existing CVD who are intolerant of three different statins. Signs.",
+            "wer": 0.12
+        }
+    },
+    {
+        "file_name": "lifestyle_modifications_35.txt",
+        "ground_truth": "than reducing overall fat intake (145, 153, 155). Current guidelines recommend a diet that provides less than 30% of calories from dietary fat, less than 10% of calories from saturated fats, up to 10% from polyunsaturated fats, and about 15% from monounsaturated fats (86, 88, 148). Metabolic studies have shown",
+        "generated": {
+            "transcription": "than reducing overall fat intake. 145, 153, 155. Current guidelines recommend a diet that provides less than 30% of calories from dietary fat, less than 10% of calories from saturated fats, up to 10% from polyunsaturated fats, and about 15% from monounsaturated fats, 86, 88, 148. Metabolic studies have shown.",
+            "wer": 0.0
+        }
+    },
+    {
+        "file_name": "3_6_3.txt",
+        "ground_truth": "I manage it better? Are there symptoms that will warn me if my blood pressure is too high?",
+        "generated": {
+            "transcription": "I manage it better? Are there symptoms that will warn me if my blood pressure is too high?",
+            "wer": 0.0
+        }
+    },
+    {
+        "file_name": "HOCM_3_1.txt",
+        "ground_truth": "Such diversity in causal mutations and their expression results in an extremely heterogeneous range of phenotypes, each with a different genetic and molecular mechanism responsible for cardiac muscle hypertrophy. Broadly speaking, hypertrophy is either secondary to functional and structural defects in myocytes or increased storage of materials, such as glycogen.4",
+        "generated": {
+            "transcription": "Such diversity in causal mutations and their expression results in an extremely heterogeneous range of phenotypes, each with a different genetic and molecular mechanism responsible for cardiac muscle hypertrophy. Broadly speaking, hypertrophy is either secondary to functional and structural defects in myocytes or increased storage of materials, such as glycogen.",
+            "wer": 0.02
+        }
+    },
+    {
+        "file_name": "BNF_medication_guidelines_11.txt",
+        "ground_truth": "than 20 years, present with target organ damage (such as proteinuria, albuminuria, proliferative retinopathy, or autonomic neuropathy), or have other significantly elevated cardiovascular risk factors. Risk calculators Cardiovascular risk assessment calculators are used to predict the approximate likelihood of a cardiovascular event occurring over a given period of time. Standard",
+        "generated": {
+            "transcription": "Then 20 years, present with target organ damage, such as proteinuria, albuminuria, proliferative retinopathy, or autonomic neuropathy, or have other significantly elevated cardiovascular risk factors. Risk calculators Cardiovascular risk assessment calculators are used to predict the approximate likelihood of a cardiovascular event occurring over a given period of time. Standard.",
+            "wer": 0.02
+        }
+    },
+    {
+        "file_name": "refugees_and_asylum_seekers_22.txt",
+        "ground_truth": "supporting refugees and asylum seekers. Caring for patients with trauma Providing care for people who have experienced violence or persecution can be challenging. They may be unable to discuss their health problems openly or be fearful of examination. They may also have difficulty trusting people in positions of authority, including",
+        "generated": {
+            "transcription": "Supporting refugees and asylum seekers, caring for patients with trauma, providing care for people who have experienced violence or persecution can be challenging. They may be unable to discuss their health problems openly or be fearful of examination. They may also have difficulty trusting people in positions of authority, including,",
+            "wer": 0.0
+        }
+    },
+    {
+        "file_name": "lifestyle_modifications_9.txt",
+        "ground_truth": "meta-analysis of 18 trials, 10 of which reported clinical data, net changes were seen in systolic blood pressure (\u22123.9 mmHg; 95% CI \u22124.2 to \u22123.6 mmHg), diastolic blood pressure (\u22122.9 mmHg; 95% CI \u22123.1 to \u22122.7 mmHg), smoking prevalence (\u22124.2%; 95% CI \u22124.8 to \u22123.6%), and blood cholesterol (\u22120.08 mmol/l;",
+        "generated": {
+            "transcription": "Meta analysis of 18 trials, 10 of which reported clinical data, net changes were seen in systolic blood pressure, 3.9 million at maidskree, 95% CI, 4.2 to 3.6 mmH clears, diastolic blood pressure, 2.9 mmH gre, 95% CI, 3.1 to 2.77 mmH gre, smoking prevalence, 4.2% 95% CI, 4.8, 2.3.6% and blood cholesterol. That 0.08, MOL, LL,",
+            "wer": 0.34
+        }
+    },
+    {
+        "file_name": "6_8_1_3.txt",
+        "ground_truth": "not treated. In some cases, untreated AF can lead to long-term damage to the heart\u2019s structure. People with AF are more likely to develop other heart conditions, like cardiomyopathy. Proper management can greatly reduce the risk of complications and improve quality of life..",
+        "generated": {
+            "transcription": "Not treated. In some cases, untreated AF can lead to long-term damage to the heart structure. People with AF are more likely to develop other heart conditions, like cardiomyopathy. Proper management can greatly reduce the risk of complications and improve quality of life.",
+            "wer": 0.023255813953488372
+        }
+    },
+    {
+        "file_name": "7.9.4.txt",
+        "ground_truth": "\ufeffBisoprolol, a beta-blocker, is often started at 2.5-5 mg daily and adjusted based on heart rate and symptoms.",
+        "generated": {
+            "transcription": "Bisa Pro-Lol, a beta-blocker, is often started at 2.5 to 5 mg daily and adjusted based on heart rate and symptoms.",
+            "wer": 0.2777777777777778
+        }
+    },
+    {
+        "file_name": "1_1_6_2.txt",
+        "ground_truth": "feel any pain or heaviness in your legs? Pain during movement can also be a sign of reduced blood flow due to atherosclerosis. To get a better picture of what\u2019s happening, we\u2019ll start with some tests that assess blood flow to the heart and look for any blockages in the",
+        "generated": {
+            "transcription": "Feel any pain or heaviness in your legs? Pain during movement can also be a sign of reduced blood flow due to atherosclerosis. To get a better picture of what's happening, we\u2019ll start with some tests that assess blood flow to the heart and look for any blockages in there.",
+            "wer": 0.02
+        }
+    },
+    {
+        "file_name": "10.7.3.txt",
+        "ground_truth": "\ufeffMany people in Arab cultures prioritise hospitality and social gatherings. We can discuss how to incorporate healthy choices during these events.",
+        "generated": {
+            "transcription": "Many people in Arab cultures prioritize hospitality and social gatherings. We can discuss how to incorporate healthy choices during these events.",
+            "wer": 0.047619047619047616
+        }
+    },
+    {
+        "file_name": "cardiac_catheterisation_31.txt",
+        "ground_truth": "out a balloon angioplasty (a procedure to widen blocked arteries). This will be carried out immediately and adds about an extra hour to the procedure. This should have been discussed with you beforehand, unless it's needed as an emergency procedure. The catheter and sheath will be removed once the procedure",
+        "generated": {
+            "transcription": "Out a balloon angioplasty A procedure to widen blocked arteries This will be carried out immediately and adds about an extra hour to the procedure. This should have been discussed with you beforehand, unless it's needed as an emergency procedure. The catheter and sheath will be removed once the procedure.",
+            "wer": 0.0
+        }
+    },
+    {
+        "file_name": "1_7_2.txt",
+        "ground_truth": "it lowers your risk of heart disease significantly. Reducing your salt intake can help lower blood pressure, which takes some strain off your heart. Limiting alcohol to within recommended amounts can help keep your blood pressure under control and support heart health. Eating smaller portions and reducing processed foods can",
+        "generated": {
+            "transcription": "It lowers your risk of heart disease significantly. Reducing your salt intake can help lower blood pressure, which takes some strain off your heart. Limiting alcohol to within recommended amounts can help keep your blood pressure under control and support heart health. Eating smaller portions and reducing processed foods can help",
+            "wer": 0.02
+        }
+    },
+    {
+        "file_name": "8.10.10.txt",
+        "ground_truth": "\ufeffAre you happy to go ahead with the procedure? If you feel unsure about anything, let me know.",
+        "generated": {
+            "transcription": "Are you happy to go ahead with the procedure? If you feel unsure about anything, let me know.",
+            "wer": 0.0
+        }
+    },
+    {
+        "file_name": "HOCM_9.txt",
+        "ground_truth": "Cardiac magnetic resonance imaging (cMRI): should be considered as part of a thorough assessment if local resources and expertise permit, however, it is not required for diagnosis. cMRI allows superior identification of left ventricular apical and anterolateral hypertrophy and is, therefore, more likely to pick up apical hypertrophic cardiomyopathy as",
+        "generated": {
+            "transcription": "Cardiac magnetic resonance imaging, CMRI, should be considered as part of a thorough assessment if local resources and expertise permit. However, it is not required for diagnosis. CMRI allows superior identification of left ventricular apical and antrolateral hypertrophy and is therefore more likely to pick up apical hypertrophic cardiomyopathy as,",
+            "wer": 0.02
+        }
+    },
+    {
+        "file_name": "full_cardiovascular_exam_3.txt",
+        "ground_truth": "Radiation: may spread to the neck, jaw, back and left or right arm. Nature: chest pain due to cardiac ischaemia is typically tight and crushing in quality: Patients tend to describe the angina pains with the flat of their hand horizontally across the middle of their chest; they tend to",
+        "generated": {
+            "transcription": "Radiation may spread to the neck, jaw, back, and left or right arm. Nature Chaspain Due to cardiac is typically tight in crushing quality. Patients tend to describe the angina pains with the flat of their hand horizontally across the middle of their chest. They tend to,",
+            "wer": 0.1
+        }
+    },
+    {
+        "file_name": "BNF_medication_guidelines_14.txt",
+        "ground_truth": "cardiovascular risk of coronary heart disease (angina and myocardial infarction), stroke, and transient ischaemic attack. This is based on lipid profile, systolic blood pressure, sex, age, ethnicity, smoking status, BMI, chronic kidney disease (stage 4 or above), diabetes mellitus, atrial fibrillation, treated hypertension, rheumatoid arthritis, social deprivation, or a family",
+        "generated": {
+            "transcription": "Cardiovascular risk of coronary heart disease, angina and myocardial infarction. Stroke and transient ischemic attack. This is based on lipid profile, systolic blood pressure, sex, age, ethnicity, smoking status, BMI, chronic kidney disease, stage 4 or above. Diabetes malitis. atrial fibrillation. Treated hypertension, rheumatoid arthritis. Social deprivation.",
+            "wer": 0.1
+        }
+    },
+    {
+        "file_name": "refugees_and_asylum_seekers_27.txt",
+        "ground_truth": "Salvation Army can also assist with referrals. Victims of torture and other forms of violence Recent estimates suggest that on average 44% of asylum seekers have experienced torture, although this can vary significantly by country. If you have patients who are refugees and asylum seekers, you should be alert to",
+        "generated": {
+            "transcription": "Salvation Army can also assist with referrals. Victims of torture and other forms of violence Recent estimates suggest that on average 44% of asylum seekers have experienced torture, although this can vary significantly by country. If you have patients who are refugees and asylum seekers, you should be alert to,",
+            "wer": 0.0
+        }
+    },
+    {
+        "file_name": "refugees_and_asylum_seekers_19.txt",
+        "ground_truth": "violence. Issues can range from low to moderate levels of anxiety and depression through to more severe mental disorders. The mental health section of the Migrant Health Guide provides further information and links to resources, including patient information in other languages. Cultural competence People from different cultural backgrounds can have",
+        "generated": {
+            "transcription": "Violence Issues can range from low to moderate levels of anxiety and depression through to more severe mental disorders. The mental health section of the Migrant Health Guide provides further information and links to resources, including patient information in other languages. Cultural competence People from different cultural backgrounds can have,",
+            "wer": 0.0
+        }
+    },
+    {
+        "file_name": "1_1_6.txt",
+        "ground_truth": "if there\u2019s any narrowing or blockage. A stress test is also useful. It helps us see how your heart performs under exertion, which can reveal issues with blood flow. An ultrasound, known as a Doppler test, can help us assess blood flow through the arteries and detect any areas that",
+        "generated": {
+            "transcription": "If there's any narrowing or blockage, a stress test is also useful. It helps us see how your heart performs under exertion, which can reveal issues with blood flow. An ultrasound known as a Doppler test can help us assess blood flow through the arteries and detect any areas that",
+            "wer": 0.0
+        }
+    },
+    {
+        "file_name": "9.6.3.txt",
+        "ground_truth": "\ufeffIf we find a blockage during the angiogram, we may proceed with a PCI to widen the artery using a balloon and a stent.",
+        "generated": {
+            "transcription": "If we find a blockage during the angiogram, we may proceed with a PCI to widen the artery using a balloon and a stent.",
+            "wer": 0.0
+        }
+    },
+    {
+        "file_name": "lifestyle_modifications_33.txt",
+        "ground_truth": "(145, 152, 153). 30 Prevention of cardiovascular disease A high intake of fat (more than one-third of total calories) generally increases intake of saturated fat and is associated with consumption of excess calories and weight gain. A low intake of fats and oils (less than one-fi fth of total calories)",
+        "generated": {
+            "transcription": "145, 152, 153. 30 Prevention of cardiovascular disease A high intake of fat, more than one-third of total calories, generally increases intake of saturated fat and is associated with consumption of excess calories and weight gain. A low intake of fats and oils, less than one-fi-f of total calories,",
+            "wer": 0.04
+        }
+    },
+    {
+        "file_name": "7.7.8.txt",
+        "ground_truth": "\ufeffLimit alcohol intake to recommended levels, as excessive drinking can harm your heart.",
+        "generated": {
+            "transcription": "Limit alcohol intake to recommended levels as excessive drinking can harm your heart.",
+            "wer": 0.0
+        }
+    },
+    {
+        "file_name": "6_1_1_3.txt",
+        "ground_truth": "your family has a history of atrial fibrillation? I\u2019m going to check your pulse to see if it feels irregular. Your symptoms might be related to an irregular heart rhythm known as atrial fibrillation. We\u2019ll do an ECG, which is a test to look at the electrical activity of your",
+        "generated": {
+            "transcription": "Your family has a history of atrial fibrillation. I'm going to check your pulse to see if it feels irregular. Your symptoms might be related to an irregular heart rhythm known as atrial fibrillation. We\u2019ll do an ECG, which is a test to look at the electrical activity of your",
+            "wer": 0.0
+        }
+    },
+    {
+        "file_name": "medication_after_a_heart_attack_26.txt",
+        "ground_truth": "yourself. Some people may complain of heartburn, indigestion, or nausea. In a small number of people it can provoke or worsen bleeding in the stomach. Tell your doctor if you have any unexplained bleeding or bruising, blood in the urine or black and tarry bowel motions. If you are experiencing",
+        "generated": {
+            "transcription": "yourself. Some people may complain of heartburn, indigestion, or nausea. In a small number of people it can provoke or worsen bleeding in the stomach. Tell your doctor if you have any unexplained bleeding or bruising, blood in the urine or black and teri bowel motions. If you are experiencing,",
+            "wer": 0.02
+        }
+    },
+    {
+        "file_name": "pericarditis_10_2.txt",
+        "ground_truth": "fibrosis/calcification of pericardium, treated with pericardiectomy.",
+        "generated": {
+            "transcription": "5-Brosis-Consification of Pericardium treated with pericardiectomy.",
+            "wer": 0.16666666666666666
+        }
+    }
+]
