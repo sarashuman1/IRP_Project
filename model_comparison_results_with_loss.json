@@ -1,0 +1,50 @@
+[
+    {
+        "file_name": "1_1_1.mp3",
+        "ground_truth": "I understand you're experiencing chest pain or discomfort. Can you describe when it happens, such as during activity or at rest, and how long it usually lasts? Some patients with atherosclerosis feel pressure or a squeezing sensation in the chest, especially during physical exertion. Have you noticed anything similar? Shortness of breath.",
+        "original": {
+            "transcription": " understand your are experiencing chest pain or discomfort. You you describe what it happens? such as during activity or at rest, and how long it usually lasts? Some patients with atherosclerosis feel pressure or a squeezing sensation in the chest, especially during physical exertion. Have you noticed anything similar? Shortness of breath.",
+            "wer": 0.11538461538461539,
+            "loss": 1.3480721712112427,
+            "inference_time": 8.428233861923218
+        },
+        "fine_tuned": {
+            "transcription": " understand you're experiencing chest pain or discomfort. Can you describe when it happens, such as during activity or at rest, and how long it usually lasts? Some patients with atherosclerosis feel pressure or a squeezing sensation in the chest, especially during physical exertion. Have you noticed anything similar? Shortness of breath.",
+            "wer": 0.019230769230769232,
+            "loss": 1.0601392984390259,
+            "inference_time": 0.3634450435638428
+        }
+    },
+    {
+        "file_name": "1_1_2.mp3",
+        "ground_truth": "can sometimes be linked to restricted blood flow from hardened arteries. Have you been feeling breathless, even with minimal activity? Fatigue is common in atherosclerosis, as the heart works harder to push blood through stiffened arteries. Have you been feeling more tired than usual? You mentioned feeling a sense of",
+        "original": {
+            "transcription": " sometimes be linked to restricted blood flow from hardened arteries. you been feeling aless, even with minimal activity? Fatigue is common in atherosclerosis as as the heart works harder to push blood through stiffened arteries. Have you been feeling more tired than usual? You mentioned feeling a sense of",
+            "wer": 0.1,
+            "loss": 1.269534945487976,
+            "inference_time": 0.33546900749206543
+        },
+        "fine_tuned": {
+            "transcription": " sometimes be linked to restricted blood flow from hardened arteries. Have you been feeling breathless, even with minimal activity? Fatigue is common in atherosclerosis as as the heart works harder to push blood through stiffened arteries. Have you been feeling more tired than usual? You mentioned feeling a sense of,",
+            "wer": 0.08,
+            "loss": 1.1257120370864868,
+            "inference_time": 0.35588812828063965
+        }
+    },
+    {
+        "file_name": "1_1_3.mp3",
+        "ground_truth": "Tightness or heaviness in the chest. This can happen if blood flow to the heart is limited, a common symptom in atherosclerosis. Do you ever experience discomfort in your arms, neck or jaw? Sometimes restricted blood flow to the heart can cause pain in these areas as well. When you",
+        "original": {
+            "transcription": "itness or heaviness in the chest. This can happen if blood flow to the heart is limited. a common symptom in atherosclerosis. Do you ever experience discomfort in your arms, neck or jaw? Sometimes restricted blood flow to the heart can cause pain in these areas as well. you",
+            "wer": 0.06,
+            "loss": 1.3125042915344238,
+            "inference_time": 0.35400390625
+        },
+        "fine_tuned": {
+            "transcription": "itness or heaviness in the chest. This can happen if blood flow to the heart is limited, a common symptom in atherosclerosis. Do you ever experience discomfort in your arms, neck or jaw? Sometimes restricted blood flow to the heart can cause pain in these areas as well. When you",
+            "wer": 0.02,
+            "loss": 1.1257816553115845,
+            "inference_time": 0.32044386863708496
+        }
+    }
+]
