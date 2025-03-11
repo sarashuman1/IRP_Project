@@ -1,0 +1,41 @@
+import torch
+from transformers import WhisperProcessor, WhisperForConditionalGeneration
+import torchaudio
+
+def load_audio(file_path, sampling_rate=16000):
+    waveform, orig_sample_rate = torchaudio.load(file_path)
+    if orig_sample_rate != sampling_rate:
+        resampler = torchaudio.transforms.Resample(orig_freq=orig_sample_rate, new_freq=sampling_rate)
+        waveform = resampler(waveform)
+    return waveform.squeeze().numpy()
+
+# Path to your fine-tuned model and the MP3 file you want to transcribe
+finetuned_model_path = "/Users/hassanshuman/SaraIRPLocal/whisper-small-finetuned-12epoc"  # Directory containing your fine-tuned model
+audio_file_path = "/Users/hassanshuman/SaraIRPLocal/FINAL MP3/10.2.4.mp3"  # Replace with your MP3 file path
+
+# Load the fine-tuned model and processor
+processor = WhisperProcessor.from_pretrained(finetuned_model_path)
+model = WhisperForConditionalGeneration.from_pretrained(finetuned_model_path)
+
+# Set device (GPU if available, CPU if not)
+device = "cuda" if torch.cuda.is_available() else "cpu"
+model = model.to(device)
+
+# Load and process audio
+print(f"Processing audio file: {audio_file_path}")
+audio_array = load_audio(audio_file_path)
+input_features = processor(audio_array, return_tensors="pt", sampling_rate=16000).input_features.to(device)
+
+# Generate transcription
+predicted_ids = model.generate(input_features)
+transcription = processor.decode(predicted_ids[0], skip_special_tokens=True)
+
+# Print results
+print("\nTranscription:")
+print(transcription)
+
+# Optionally save to file
+output_file = "10.2.4_transcription_output.txt"
+with open(output_file, "w", encoding="utf-8") as f:
+    f.write(transcription)
+print(f"\nTranscription saved to: {output_file}")
